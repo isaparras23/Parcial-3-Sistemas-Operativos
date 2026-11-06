@@ -1,4 +1,4 @@
-***Parcial 3 Sistemas Operativos***
+**Parcial 3 Sistemas Operativos**
 Integrantes 
 Mariana Montoya Deza
 Isabel Parra Sierra 
